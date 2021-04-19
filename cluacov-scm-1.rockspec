@@ -1,7 +1,7 @@
 package = "cluacov"
 version = "scm-1"
 source = {
-   url = "git+https://github.com/luarocks/cluacov.git"
+   url = "git+https://github.com/khvzak/cluacov.git"
 }
 description = {
    summary = "C extensions for LuaCov",
@@ -9,7 +9,7 @@ description = {
 Optional C extensions for LuaCov, improving performance and reducing
 number of lines incorrectly marked as missed. Depends on LuaCov.
    ]],
-   homepage = "https://github.com/luarocks/cluacov",
+   homepage = "https://github.com/khvzak/cluacov",
    license = "MIT"
 }
 dependencies = {
